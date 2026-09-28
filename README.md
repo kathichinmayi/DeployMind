@@ -1,6 +1,8 @@
 ## Live Demo
 
-https://deploymind.streamlit.app# DeployMind
+https://deploymind.streamlit.app
+
+# DeployMind
 
 DeployMind is a memory-driven deployment risk analysis assistant. Before a deployment, it recalls similar incidents from Hindsight and asks Groq to turn that evidence into targeted preventive checks. After an incident is resolved, the outcome and lesson are retained for future deployments.
 
